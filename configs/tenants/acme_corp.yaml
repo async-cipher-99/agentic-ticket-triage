@@ -1,0 +1,28 @@
+tenant_id: acme_corp
+display_name: "Acme Corp"
+supported_languages: ["en", "es"]
+
+allowed_tools:
+  - order_status
+  - refund_lookup
+  - kb_search
+
+knowledge_base_path: "data/knowledge_base/acme_corp.jsonl"
+
+labels:
+  - billing
+  - shipping
+  - technical_issue
+  - account_access
+  - churn_risk
+  - feature_request
+
+urgency_levels: ["low", "medium", "high", "critical"]
+
+escalation:
+  min_confidence: 0.65
+  max_agent_steps: 6
+
+refund_policy:
+  max_auto_approve_amount_usd: 50
+  requires_manager_review_above_usd: 250

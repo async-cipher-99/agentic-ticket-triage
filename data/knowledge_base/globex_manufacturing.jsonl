@@ -1,0 +1,10 @@
+{"id": "globex_001", "category": "technical_issue", "content": "High ambient heat can trigger overheating faults in the GX-4000 series. Production teams should log ambient temperature and machine load when reporting an issue."}
+{"id": "globex_002", "category": "technical_issue", "content": "Drive motor failures should be reviewed alongside service history and the machine serial number. Warranty review is required if the equipment is still within the active coverage period."}
+{"id": "globex_003", "category": "parts_order", "content": "Critical spare parts are prioritized for units that are currently affecting production output. Exact part numbers are required before a replacement order is dispatched."}
+{"id": "globex_004", "category": "installation_support", "content": "Intake-side clearance must remain within the machine specification to avoid airflow restriction and thermal stress on the equipment."}
+{"id": "globex_005", "category": "compliance_question", "content": "CE compliance documentation and audit support are collected in the compliance archive. Certification requests are usually answered with the latest declaration packet."}
+{"id": "globex_006", "category": "warranty_claim", "content": "Warranty claims require service dates, model identifiers, and maintenance records. Claims are reviewed against the active repair window before final approval."}
+{"id": "globex_007", "category": "parts_order", "content": "Replacement assemblies may require verification of the installed serial number and maintenance timeline before shipment is approved."}
+{"id": "globex_008", "category": "installation_support", "content": "New installations should begin only after the intake clearance and mounting area are confirmed against the installation guide."}
+{"id": "globex_009", "category": "compliance_question", "content": "Audit packages must include the safety declaration, installation documentation, and the latest conformity records relevant to the asset."}
+{"id": "globex_010", "category": "technical_issue", "content": "Production faults are escalated faster when the machine is reporting repeated temperature warnings or a line shutdown condition."}

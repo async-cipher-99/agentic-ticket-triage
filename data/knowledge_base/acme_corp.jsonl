@@ -1,0 +1,10 @@
+{"id": "acme_001", "category": "billing", "content": "Refunds are reviewed within 3 to 5 business days after the claim is verified. Duplicate charges are reversed after account review and confirmation of the payment history."}
+{"id": "acme_002", "category": "billing", "content": "Invoices can be disputed if the charge amount does not match the order confirmation or if the product was damaged on arrival."}
+{"id": "acme_003", "category": "shipping", "content": "Tracking updates may lag by 24 to 48 hours during carrier delays. Customers should use the live tracking link in the order portal for the latest information."}
+{"id": "acme_004", "category": "shipping", "content": "Late deliveries are monitored automatically and can be rescheduled if the carrier marks the parcel as delayed or lost."}
+{"id": "acme_005", "category": "technical_issue", "content": "App crashes are commonly caused by outdated mobile versions. Customers should update to the latest app version and then retry their export or login flow."}
+{"id": "acme_006", "category": "technical_issue", "content": "Export failures are logged and usually resolved in the next patch release. If the issue persists, we recommend clearing the app cache and retrying."}
+{"id": "acme_007", "category": "account_access", "content": "Too many failed login attempts trigger a temporary lockout as a security measure. Password resets are required if a session is blocked after repeated failed sign-ins."}
+{"id": "acme_008", "category": "feature_request", "content": "Bulk CSV export requests are reviewed in the product roadmap process. High-volume users can request advanced exports through the support team."}
+{"id": "acme_009", "category": "billing", "content": "Refund requests for damaged items are matched against delivery proof and item condition reports before approval."}
+{"id": "acme_010", "category": "shipping", "content": "Packages with mismatched addresses are held at the carrier facility until the customer confirms the correct delivery details."}

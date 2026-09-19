@@ -1,0 +1,24 @@
+tenant_id: globex_manufacturing
+display_name: "Globex Manufacturing"
+supported_languages: ["en", "de", "fr"]
+
+allowed_tools:
+  - account_lookup
+  - kb_search
+
+knowledge_base_path: "data/knowledge_base/globex_manufacturing.jsonl"
+
+labels:
+  - warranty_claim
+  - parts_order
+  - technical_issue
+  - installation_support
+  - compliance_question
+
+urgency_levels: ["low", "medium", "high", "critical"]
+
+escalation:
+  min_confidence: 0.8
+  max_agent_steps: 8
+
+refund_policy: null
